@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+}
+
+a{
+    color: rgb(35, 153, 207);
+    text-decoration: none;
+}
